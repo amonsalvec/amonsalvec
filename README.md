@@ -1,4 +1,4 @@
-![imagen](img1.jpg)
+![](img1.jpg =100x20)
 
 # 👋 ¡Hola! Soy Abelardo M.
 
