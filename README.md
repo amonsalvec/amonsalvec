@@ -1,5 +1,5 @@
 
-<img src="./img/img1.jpg" alt="Descripción" width="400" height="100">
+<img src="./img1.jpg" alt="" width="600" height="100">
 
 # 👋 Hello! I'm Abelardo M.
 
