@@ -1,26 +1,28 @@
-<!--![imagen](img/python.jpg)-->
-## Mi GitHub site 👋
-
-- 👋 Hola, Soy Abelardo, 
-- Estoy cursando el Bootcamp de Data Science en The Bridge.
-- Lenguajes de programación que manejo: \python \R \LaTeX
-- Mis trabajos previos:
-  * BCAM
-  * ITMATI
-  * Universidad Centroccidental Lisandro Alvarado.
-- He trabajado en
 
 
-<!--
-**amonsalvec/amonsalvec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Abel
 
-Here are some ideas to get you started:
+## 📌 Sobre mí
+Soy Estadístico y Matemático. Mis áreas de conocimiento comprenden 
 
--  👋 Hola, soy AbelardoE
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Ciencia de datos, inteligencia artificial y Aprendizaje automatizado.
+- 📊 Probabilidades y estadística
+- 🔢 Análisis de Confiabilidad y Supervivencia
+- 📊 Probabilidades y estadística
+
+Además, he llevado a cabo activodades de investigador académico en estas áreas y soy un entusiasta de la programación.
+
+## 💻 Tecnologías y herramientas
+- **Lenguajes de programación:** Python, R, MATLAB, Java (básico), HTML, CSS, JavaScript
+- **Áreas de interés:** Data Science, Machine Learning, Full Stack Development, Big Data
+- **Software y librerías favoritas:** NumPy, Pandas, Scikit-learn, Matplotlib, ggplot2, plotly
+
+## 🎯 Mis intereses
+Además de mi trabajo académico, me apasiona la tecnología, la inteligencia artificial y la historia mundial, especialmente la de los imperios y civilizaciones. También disfruto de la música rock y folk, especialmente el estilo de *The Beatles* y "Oasis". 
+
+## 📫 ¿Cómo contactarme?
+- 📧 [Correo electrónico](abelardoemc@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tuperfil)
+
+¡Gracias por visitar mi perfil! 🚀
+
