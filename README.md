@@ -1,28 +1,31 @@
-![](img1.jpg)
 
-# 👋 ¡Hola! Soy Abelardo M.
+<img src="./img/img1.jpg" alt="Descripción" width="400" height="100">
 
-## 📌 Sobre mí
-Soy Estadístico y Matemático. Mis áreas de conocimiento comprenden 
+# 👋 Hello! I'm Abelardo M.
 
-- 🤖 Ciencia de datos, inteligencia artificial y Aprendizaje automatizado.
-- 📊 Probabilidades y estadística
-- 🔢 Análisis de Confiabilidad y Supervivencia
-- 📊 Probabilidades y estadística
+## 📌 About Me
+I am a Statistician and Mathematician. My areas of expertise include:
 
-Además, he llevado a cabo activodades de investigador académico en estas áreas y soy un entusiasta de la programación.
+- 🤖 Data Science, Artificial Intelligence, and Machine Learning
+- 📊 Probability and Statistics
+- 🔢 Reliability and Survival Analysis
+- 📊 Probability and Statistics (yes, I love it so much I had to mention it twice!)
 
-## 💻 Tecnologías y herramientas
-- **Lenguajes de programación:** Python, R, MATLAB, Java (básico), HTML, CSS, JavaScript
-- **Áreas de interés:** Data Science, Machine Learning, Full Stack Development, Big Data
-- **Software y librerías favoritas:** NumPy, Pandas, Scikit-learn, Matplotlib, ggplot2, plotly
+Additionally, I have conducted academic research in these fields and am a passionate programmer.
 
-## 🎯 Mis intereses
-Además de mi trabajo académico, me apasiona la tecnología, la inteligencia artificial y la historia mundial, especialmente la de los imperios y civilizaciones. También disfruto de la música rock y folk, especialmente el estilo de *The Beatles* y "Oasis". 
+## 💻 Technologies and Tools
+- **Programming Languages:** Python, R, MATLAB, Java (basic), HTML, CSS, JavaScript
+- **Areas of Interest:** Data Science, Machine Learning, Full Stack Development, Big Data
+- **Favorite Software and Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, ggplot2, Plotly
 
-## 📫 ¿Cómo contactarme?
-- 📧 [Correo electrónico](abelardoemc@gmail.com)
+## 🎯 My Interests
+Beyond my academic work, I am passionate about technology, artificial intelligence, and world history, especially the study of empires and civilizations. I also enjoy rock and folk music, particularly the style of *The Beatles* and *Oasis*.
+
+## 📫 How to Reach Me?
+- 📧 [Email](mailto:abelardoemc@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tuperfil)
 
-¡Gracias por visitar mi perfil! 🚀
+
+Thanks for visiting my profile! 🚀
+
 
