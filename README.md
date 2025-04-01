@@ -1,4 +1,4 @@
-![](./mg1.jpg)
+![](./mg2.jpg)
 
 # 👋 Hello! I'm Abelardo M.
 
