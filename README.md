@@ -1,6 +1,7 @@
 
+![Yo](./img/img1.jpg)
 
-# 👋 ¡Hola! Soy Abel
+# 👋 ¡Hola! Soy Abelardo M.
 
 ## 📌 Sobre mí
 Soy Estadístico y Matemático. Mis áreas de conocimiento comprenden 
