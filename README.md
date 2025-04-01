@@ -1,5 +1,4 @@
-
-<img src="./img1.jpg" alt="" width="1000" height="100">
+![](./banner_1.png)
 
 # 👋 Hello! I'm Abelardo M.
 
