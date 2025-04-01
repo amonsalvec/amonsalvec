@@ -1,5 +1,5 @@
 
-![Yo](./img/img1.jpg)
+(./img/img1.jpg)
 
 # 👋 ¡Hola! Soy Abelardo M.
 
