@@ -8,7 +8,7 @@ I am a Statistician and Mathematician. My areas of expertise include:
 - 📊 Probability and Statistics
 - 🔢 Reliability and Survival Analysis, Competing Risks, Cure Models, Logistic Models, Longitudinal data Anlysis. 
 
-Additionally, I have conducted academic research in these fields and am a passionate programmer.
+
 
 ## 💻 Technologies and Tools
 - **Programming Languages:** Python, R, MATLAB, Java, HTML, CSS, JavaScript(basic)
