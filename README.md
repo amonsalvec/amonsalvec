@@ -1,8 +1,7 @@
 ![](./banner_6.jpg)
 
-# 👋 Hello! I'm Abelardo M.
+## 👋 Hey! I'm Abelardo Monsalve.
 
-## 📌 About Me
 I am a Statistician and Mathematician. My areas of expertise include:
 
 - 🤖 Data Science, Artificial Intelligence, and Machine Learning
@@ -20,8 +19,8 @@ Beyond my academic work, I am passionate about technology, artificial intelligen
 
 ## 📫 How to Reach Me?
 - 📧 [Email](mailto:abelardoemc@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tuperfil)
-
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/abelardo-enrique-monsalve-cobis-239594140/))
+- 🔗 [My CV] (https://amonsalvec.github.io/CV_AEMC/) 
 
 Thanks for visiting my profile! 🚀
 
