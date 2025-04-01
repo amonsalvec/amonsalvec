@@ -6,8 +6,7 @@ I am a Statistician and Mathematician. My areas of expertise include:
 
 - 🤖 Data Science, Artificial Intelligence, and Machine Learning
 - 📊 Probability and Statistics
-- 🔢 Reliability and Survival Analysis, Competing Risks, Cure Models, Logistic Models, Longitudinal data Anlysis.
-- 
+- 🔢 Reliability and Survival Analysis, Competing Risks, Cure Models, Logistic Models, Longitudinal data Anlysis. 
 
 Additionally, I have conducted academic research in these fields and am a passionate programmer.
 
