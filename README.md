@@ -1,5 +1,5 @@
 
-(./img/img1.jpg)
+(img1.jpg)
 
 # 👋 ¡Hola! Soy Abelardo M.
 
