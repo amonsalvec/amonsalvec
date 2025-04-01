@@ -1,5 +1,4 @@
-
-(img1.jpg)
+![imagen](img1.jpg)
 
 # 👋 ¡Hola! Soy Abelardo M.
 
