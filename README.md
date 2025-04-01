@@ -16,10 +16,10 @@ Additionally, I have conducted academic research in these fields and am a passio
 - **Areas of Interest:** Data Science, Machine Learning, Full Stack Development, Big Data
 
 ## 📫 How to Reach Me?
-- 📧 [Email] (mailto:abelardoemc@gmail.com)
-- 🔗 [LinkedIn] ([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/abelardo-enrique-monsalve-cobis-239594140/))
-- 🔗 [My CV] (https://amonsalvec.github.io/CV_AEMC/)
-- 🔗 [ResearchGate] (https://www.researchgate.net/profile/Abelardo-Monsalve-Cobis?ev=hdr_xprf) 
+- 📧 [Email](mailto:abelardoemc@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abelardo-enrique-monsalve-cobis-239594140/)
+- 🔗 [My CV](https://amonsalvec.github.io/CV_AEMC/)
+- 🔗 [ResearchGate](https://www.researchgate.net/profile/Abelardo-Monsalve-Cobis?ev=hdr_xprf) 
 
 ## 🤖 Book and chapter's book
 - [Introduction to Time Series Anlysis with applications to Finance and Econometric (in spanish)]
