@@ -1,4 +1,4 @@
-![](./banner_1.png)
+![](./mg1.jpg)
 
 # 👋 Hello! I'm Abelardo M.
 
