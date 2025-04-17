@@ -22,8 +22,7 @@ I am a Statistician and Mathematician. My areas of expertise include:
 - 🔗 [X](https://x.com/abelardo_mc) 
 
 ## 📚 Book and chapter's book
-- [Introduction to Time Series Anlysis with applications to Finance and Econometric (in spanish)]
-(https://www.researchgate.net/publication/295106544_Introduccion_al_Analisis_de_Series_de_Tiempo_con_Aplicaciones_a_la_Econometria_y_Finanzas)
+- [Introduction to Time Series Anlysis with applications to Finance and Econometric(in spanish)](https://www.researchgate.net/publication/295106544_Introduccion_al_Analisis_de_Series_de_Tiempo_con_Aplicaciones_a_la_Econometria_y_Finanzas)
 - [From Statistics to Mathematical Finance: Chapter 6 - Goodness of Fit Test for Stochastic Volatility Models](https://www.springerprofessional.de/en/goodness-of-fit-test-for-stochastic-volatility-models/15173834)
 - [Goodness of Fit Test for Interest Rate Models: an approach based on Empirical Process](http://eamo.usc.es/eipc1/BASE/BASEMASTER/FORMULARIOS-PHP-DPTO/REPORTS/unificado_10_03.pdf)
 
