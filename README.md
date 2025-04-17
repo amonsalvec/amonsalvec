@@ -18,7 +18,7 @@ I am a Statistician and Mathematician. My areas of expertise include:
 - 📧 [Email](mailto:abelardoemc@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abelardo-enrique-monsalve-cobis-239594140/)
 - 🔗 [My CV](https://amonsalvec.github.io/abelardoM_cv/)
-- 🔗 [ResearchGate](https://www.researchgate.net/profile/Abelardo-Monsalve-Cobis?ev=hdr_xprf) 
+- 🔗 [ResearchGate](https://www.researchgate.net/profile/Abelardo-Monsalve-Cobis)
 
 ## 🤖 Book and chapter's book
 - [Introduction to Time Series Anlysis with applications to Finance and Econometric (in spanish)]
