@@ -2,7 +2,8 @@
 
 ## 👋 Hey! I'm Abelardo Monsalve.
 
-I am a Statistician and Mathematician. My areas of expertise include:
+I am a Statistician and Mathematician with over 10 years of experience in university teaching, applied research, and statistical and mathematical modeling. I have worked at institutions like BCAM-Basque Center for Applied Mathematics and ITMATI-Technological Institute for Industrial Mathematics on predictive models and data analysis.
+My areas of expertise include:
 
 - 🤖 Machine Learning, Applied Mathematics, Data Analiysis.
 - 📊 Probability and Statistics, Time Series Analysis.
