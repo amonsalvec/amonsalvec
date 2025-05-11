@@ -4,15 +4,18 @@
 
 I am a Statistician and Mathematician. My areas of expertise include:
 
-- 🤖 Data Science, Artificial Intelligence, and Machine Learning
-- 📊 Probability and Statistics
+- 🤖 Machine Learning, Applied Mathematics, Data Analiysis.
+- 📊 Probability and Statistics, Time Series Analysis.
 - 🔢 Reliability and Survival Analysis, Competing Risks, Cure Models, Logistic Models, Longitudinal data Anlysis. 
 
-
-
 ## 💻 Technologies and Tools
-- **Programming Languages:** Python, R, MATLAB, Java, HTML, CSS, JavaScript(basic)
+- **Programming Languages:** Python, R, MATLAB.
 - **Areas of Interest:** Data Science, Machine Learning, Full Stack Development, Big Data
+- **Web application development for data product deployment using**: Flask, Django, and front-end tools like HTML, CSS, and JavaScript.
+- **Skilled in working with relational databases (SQL)**: PostgreSQL, MySQL, and SQLite.
+- **Use of version control**: Git/GitHub in collaborative and production environments.
+- **Practical application of Generative AI tools** for accelerating code generation, documentation, and prototyping.
+- **Proficient in multiple operating systems:** Linux, Windows, and macOS.
 
 ## 📫 How to Reach Me?
 - 📧 [Email](mailto:abelardoemc@gmail.com)
@@ -26,6 +29,11 @@ I am a Statistician and Mathematician. My areas of expertise include:
 - [From Statistics to Mathematical Finance: Chapter 6 - Goodness of Fit Test for Stochastic Volatility Models](https://www.springerprofessional.de/en/goodness-of-fit-test-for-stochastic-volatility-models/15173834)
 - [Goodness of Fit Test for Interest Rate Models: an approach based on Empirical Process](http://eamo.usc.es/eipc1/BASE/BASEMASTER/FORMULARIOS-PHP-DPTO/REPORTS/unificado_10_03.pdf)
 
+
+
+## 📚 Languages
+- Spanish: Native
+- English: Intermediate
 
 
 Thanks for visiting my profile! 🚀
